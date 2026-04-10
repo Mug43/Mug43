@@ -13,12 +13,11 @@
 
 ###  关于我 (About Me)
 你好！我是一名来自 **浙江水利水电学院 (ZJWEU)** 的本科生，主修 **智慧水利**。
+研究方向包括太阳辐射预测和水力学及河流动力学。
 
-对我来说，编程不仅是敲击键盘，更是把脑海中天马行空的“梦境”具象化、变为现实的能力。在**智慧水利**这个迷人的交叉领域，我正尝试用代码的逻辑去丈量江河的脉络，探索如何将信息技术与水利工程相融合。
+欢迎你观看我的主页，虽然并没有什么很创新的内容（？） 正在学习编程开发，主攻 [数据分析 / 物联网 / 算法研发] 
 
--  **当前状态：** 在校本科生，在“水与代码”的世界里努力吸收新知识。
--  **技能生长：** 正在学习编程开发，并对 [数据分析 / 物联网 / 算法研发] 充满兴趣。
--  **欢迎交流：** 技术分享、数字孪生、或者是如何用代码实现那些看似遥远的“梦”。
+-  **欢迎交流：** 技术分享、数字孪生。
 
 ---
 
@@ -35,19 +34,11 @@
 ---
 
 ### 造梦空间 (Projects)
-* 灵感正在马克杯中酝酿，代码正在本地疯狂 Commit 中... 敬请期待！ (待上传)*
+* 灵感正在马克杯中酝酿，代码正在本地疯狂 Commit 中... 敬请期待！ *
 
 | 探索方向 | 简介 | 状态 |
 | :--- | :--- | :--- |
-| **LANJING** | 数字孪生水网平台 | 施工中 |
+| **LANJING** | 数字孪生水网平台 | 即将上写！ |
 | **ZJWEU_Bemar_Thesis** | 学校文档latex | 已上线 |
 
-
-
 ---
-
-### 探索足迹 (GitHub Stats)
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mug43&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mug43&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="165" alt="Top Languages" />
-</div>
