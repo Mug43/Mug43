@@ -1,44 +1,49 @@
-<h1 align="center">Hi there, I'm Mug 👋</h1>
-
 <div align="center">
-  <p><em>“我来到这个最能做梦的地方了，请教给我做梦的能力”</em> ✨</p>
+
+# Hi, I'm Mug ☕
+
+<samp>
+still curious · still building · probably debugging
+</samp>
+
+<br><br>
+
+有些想法适合记下来，  
+有些想法适合写成代码。
+
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-随便逛逛-111111?style=flat-square&logo=github&logoColor=white)](https://mug43.github.io)
+[![Website](https://img.shields.io/badge/Website-Good%20Morning%20Mug-f4a261?style=flat-square&logo=coffeescript&logoColor=white)](http://goodmorningmug.top/)
+
 </div>
 
+---
+
+### lately
+
+```text
+learning things I don't know
+making things I want to use
+deleting code I wrote yesterday
+```
+
+### a few things on my desk
+
+| | |
+|:--|:--|
+| [Python: From Beginner to Expert](https://github.com/Mug43/Python-From-Beginner-to-Expert-Advanced-Section-) | 一份持续生长的 Python 学习笔记 |
+| [ZJWEU Thesis & Beamer](https://github.com/Mug43/Zjweu-Thesis-and-Beamer) | 让排版少折腾一点 |
+| [Mug's Blog](https://github.com/Mug43/Mug43.github.io) | 偶尔写字，偶尔失踪 |
+
+<br>
+
 <div align="center">
-  <a href="http://goodmorningmug.top/"><img src="https://img.shields.io/badge/🏠_个人网站-Good_Morning_Mug-FFBCA?style=for-the-badge&logoColor=white&color=f4a261" alt="Personal Website"></a>
-  <a href="https://mug43.github.io"><img src="https://img.shields.io/badge/✍️_技术博客-Mug's_Blog-000000?style=for-the-badge&logo=github&color=264653" alt="Blog"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mug43&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=f4a261&ring_color=f4a261" height="145" alt="GitHub stats">
 </div>
 
-<br/>
+<br>
 
-###  关于我 (About Me)
-你好！我是一名来自 **浙江水利水电学院 (ZJWEU)** 的本科生，主修 **智慧水利**。
-研究方向包括太阳辐射预测和水力学及河流动力学。
-
-欢迎你观看我的主页，虽然并没有什么很创新的内容（？） 正在学习编程开发，主攻 [数据分析 / 物联网 / 算法研发] 
-
--  **欢迎交流：** 技术分享、数字孪生。
-
----
-
-### 正在打磨的工具箱 (Tech Stack)
-<!-- 这里为你保留了通用语言，智慧水利通常会用到Python处理数据，你可根据实际学习情况增删 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 造梦空间 (Projects)
-* 灵感正在马克杯中酝酿，代码正在本地疯狂 Commit 中... 敬请期待！ *
-
-| 探索方向 | 简介 | 状态 |
-| :--- | :--- | :--- |
-| **LANJING** | 数字孪生水网平台 | 即将上写！ |
-| **ZJWEU_Bemar_Thesis** | 学校文档latex | 已上线 |
-
----
+<div align="center">
+  <samp>keep the coffee warm and the ideas moving.</samp>
+</div>
