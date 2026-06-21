@@ -1,49 +1,29 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:f4a261,100:2a9d8f&height=180&section=header&text=Mug&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=still%20curious%20%E2%80%A2%20still%20building&descAlignY=58&descSize=16" alt="header">
+
 <div align="center">
 
-# Hi, I'm Mug ☕
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=F4A261&center=true&vCenter=true&width=520&lines=probably+debugging...;trying+something+new;making+small+things+work" alt="Typing SVG">
+  </a>
 
-<samp>
-still curious · still building · probably debugging
-</samp>
+  <br>
 
-<br><br>
+  [![Blog](https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=github&logoColor=white)](https://mug43.github.io)
+  [![Website](https://img.shields.io/badge/WEBSITE-F4A261?style=for-the-badge&logo=coffeescript&logoColor=white)](http://goodmorningmug.top/)
 
-有些想法适合记下来，  
-有些想法适合写成代码。
+  <br><br>
 
-<br>
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Mug43&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=f4a261&ring_color=f4a261" alt="GitHub stats">
+  <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Mug43&hide_border=true&background=00000000&ring=F4A261&fire=E76F51&currStreakLabel=F4A261&sideLabels=888888&dates=777777&currStreakNum=555555&sideNums=555555" alt="GitHub streak">
 
-[![Blog](https://img.shields.io/badge/Blog-随便逛逛-111111?style=flat-square&logo=github&logoColor=white)](https://mug43.github.io)
-[![Website](https://img.shields.io/badge/Website-Good%20Morning%20Mug-f4a261?style=flat-square&logo=coffeescript&logoColor=white)](http://goodmorningmug.top/)
+  <br><br>
+
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mug43&bg_color=00000000&color=888888&line=f4a261&point=2a9d8f&area=true&area_color=f4a261&hide_border=true&custom_title=" alt="Activity graph">
+
+  <br>
+
+  <img src="https://komarev.com/ghpvc/?username=Mug43&style=flat-square&color=f4a261&label=visitors" alt="Profile views">
 
 </div>
 
----
-
-### lately
-
-```text
-learning things I don't know
-making things I want to use
-deleting code I wrote yesterday
-```
-
-### a few things on my desk
-
-| | |
-|:--|:--|
-| [Python: From Beginner to Expert](https://github.com/Mug43/Python-From-Beginner-to-Expert-Advanced-Section-) | 一份持续生长的 Python 学习笔记 |
-| [ZJWEU Thesis & Beamer](https://github.com/Mug43/Zjweu-Thesis-and-Beamer) | 让排版少折腾一点 |
-| [Mug's Blog](https://github.com/Mug43/Mug43.github.io) | 偶尔写字，偶尔失踪 |
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mug43&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=f4a261&ring_color=f4a261" height="145" alt="GitHub stats">
-</div>
-
-<br>
-
-<div align="center">
-  <samp>keep the coffee warm and the ideas moving.</samp>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a9d8f,50:f4a261,100:111111&height=100&section=footer" alt="footer">
