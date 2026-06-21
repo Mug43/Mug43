@@ -11,6 +11,7 @@
   [![Blog](https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=github&logoColor=white)](https://mug43.github.io)
   [![Website](https://img.shields.io/badge/WEBSITE-F4A261?style=for-the-badge&logo=coffeescript&logoColor=white)](http://goodmorningmug.top/)
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8660--2212-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8660-2212)
+  [![Email](https://img.shields.io/badge/EMAIL-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023b56029@stu.zuwe.edu.cn)
 
   <br><br>
 
