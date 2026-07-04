@@ -13,31 +13,31 @@
   [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8660--2212-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8660-2212)
   [![Email](https://img.shields.io/badge/EMAIL-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023b56029@stu.zuwe.edu.cn)
 
-  <br><br>
+  <br>
 
-  <sub>focusing on solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, and CFD</sub>
+  <b>focusing on solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, and CFD</b>
 
-  <br><br>
+  <br>
 
-  ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F4A261)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F4A261)
-  ![Vue](https://img.shields.io/badge/Vue-111111?style=flat-square&logo=vuedotjs&logoColor=2A9D8F)
-  ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F4A261)
-  ![Markdown](https://img.shields.io/badge/Markdown-111111?style=flat-square&logo=markdown&logoColor=ffffff)
+  ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261)
+  ![Vue](https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F)
+  ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F4A261)
+  ![Markdown](https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=ffffff)
 
-  <br><br>
+  <br>
 
-  ![Light Novels](https://img.shields.io/badge/Light%20Novels-111111?style=flat-square&logo=bookstack&logoColor=F4A261)
-  ![BanG Dream!](https://img.shields.io/badge/BanG%20Dream%21-111111?style=flat-square&logo=musicbrainz&logoColor=2A9D8F)
-  ![Coffee](https://img.shields.io/badge/Coffee-111111?style=flat-square&logo=buymeacoffee&logoColor=F4A261)
+  ![Light Novels](https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261)
+  ![BanG Dream!](https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F)
+  ![Coffee](https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261)
 
-  <br><br>
+  <br>
 
   <table>
     <tr>
       <td align="center">
         <b>research directions</b><br>
-        <sub>solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, CFD</sub>
+        solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, CFD
       </td>
     </tr>
   </table>
