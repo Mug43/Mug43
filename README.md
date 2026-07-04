@@ -41,10 +41,6 @@
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug43&theme=github_dark" alt="GitHub profile stats">
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Mug43&hide_border=true&background=00000000&ring=F4A261&fire=E76F51&currStreakLabel=F4A261&sideLabels=888888&dates=777777&currStreakNum=555555&sideNums=555555" alt="GitHub streak">
 
-  <br><br>
-
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mug43&bg_color=00000000&color=888888&line=f4a261&point=2a9d8f&area=true&area_color=f4a261&hide_border=true&custom_title=" alt="Activity graph">
-
   <br>
 
   <img src="https://komarev.com/ghpvc/?username=Mug43&style=flat-square&color=f4a261&label=visitors" alt="Profile views">
