@@ -15,7 +15,7 @@
 
   <br><br>
 
-  <sub>currently exploring solar radiation forecasting, hydraulics, river dynamics, fluid mechanics, watershed scheduling, and CFD</sub>
+  <sub>focusing on solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, and CFD</sub>
 
   <br><br>
 
