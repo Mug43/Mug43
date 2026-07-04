@@ -27,6 +27,12 @@
 
   <br><br>
 
+  ![Light Novels](https://img.shields.io/badge/Light%20Novels-111111?style=flat-square&logo=bookstack&logoColor=F4A261)
+  ![BanG Dream!](https://img.shields.io/badge/BanG%20Dream%21-111111?style=flat-square&logo=musicbrainz&logoColor=2A9D8F)
+  ![Coffee](https://img.shields.io/badge/Coffee-111111?style=flat-square&logo=buymeacoffee&logoColor=F4A261)
+
+  <br><br>
+
   <table>
     <tr>
       <td align="center">
