@@ -15,6 +15,37 @@
 
   <br><br>
 
+  <sub>currently exploring digital twins, smart water systems, data visualization, and small automation tools</sub>
+
+  <br><br>
+
+  ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=F4A261)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F4A261)
+  ![Vue](https://img.shields.io/badge/Vue-111111?style=flat-square&logo=vuedotjs&logoColor=2A9D8F)
+  ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F4A261)
+  ![Markdown](https://img.shields.io/badge/Markdown-111111?style=flat-square&logo=markdown&logoColor=ffffff)
+
+  <br><br>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>water systems</b><br>
+        <sub>watershed modeling, scheduling, and decision support</sub>
+      </td>
+      <td align="center">
+        <b>visual thinking</b><br>
+        <sub>charts, maps, dashboards, and explainable interfaces</sub>
+      </td>
+      <td align="center">
+        <b>useful tools</b><br>
+        <sub>small scripts, web experiments, and workflow shortcuts</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
   <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug43&theme=github_dark" alt="GitHub profile stats">
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Mug43&hide_border=true&background=00000000&ring=F4A261&fire=E76F51&currStreakLabel=F4A261&sideLabels=888888&dates=777777&currStreakNum=555555&sideNums=555555" alt="GitHub streak">
 
