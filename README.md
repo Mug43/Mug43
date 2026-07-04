@@ -15,7 +15,7 @@
 
   <br><br>
 
-  <sub>currently exploring digital twins, smart water systems, data visualization, and small automation tools</sub>
+  <sub>currently exploring solar radiation forecasting, hydraulics, river dynamics, fluid mechanics, watershed scheduling, and CFD</sub>
 
   <br><br>
 
@@ -30,16 +30,8 @@
   <table>
     <tr>
       <td align="center">
-        <b>water systems</b><br>
-        <sub>watershed modeling, scheduling, and decision support</sub>
-      </td>
-      <td align="center">
-        <b>visual thinking</b><br>
-        <sub>charts, maps, dashboards, and explainable interfaces</sub>
-      </td>
-      <td align="center">
-        <b>useful tools</b><br>
-        <sub>small scripts, web experiments, and workflow shortcuts</sub>
+        <b>research directions</b><br>
+        <sub>solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, CFD</sub>
       </td>
     </tr>
   </table>
