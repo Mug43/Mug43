@@ -15,7 +15,7 @@
 
   <br><br>
 
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Mug43&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=888888&icon_color=f4a261&ring_color=f4a261" alt="GitHub stats">
+  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug43&theme=github_dark" alt="GitHub profile stats">
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Mug43&hide_border=true&background=00000000&ring=F4A261&fire=E76F51&currStreakLabel=F4A261&sideLabels=888888&dates=777777&currStreakNum=555555&sideNums=555555" alt="GitHub streak">
 
   <br><br>
