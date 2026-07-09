@@ -13,7 +13,6 @@
 
 <br>
 <b>from Shaoxing, Zhejiang · naive kid · senior undergrad · preparing for grad school</b>
-
 <!-- skills row -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
