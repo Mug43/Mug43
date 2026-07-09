@@ -28,14 +28,16 @@
 </p>
 
 <!-- research text -->
-<div align="center" style="margin: 6px 0 0 0;">
+<div align="center" style="margin: 10px 0 4px 0;">
+  <img src="https://img.shields.io/badge/Research-111111?style=for-the-badge&logo=researchgate&logoColor=A6CE39" alt="Research">
+  <br>
   solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD
 </div>
 
-<br>
-
 <!-- fun row -->
-<div align="center">
+<div align="center" style="margin: 10px 0 0 0;">
+  <img src="https://img.shields.io/badge/Fun-111111?style=for-the-badge&logoColor=E76F51" alt="Fun">
+  <br>
   <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
   <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
   <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
