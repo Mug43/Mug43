@@ -6,39 +6,59 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=F4A261&center=true&vCenter=true&width=520&lines=probably+debugging...;trying+something+new;making+small+things+work" alt="Typing SVG">
   </a>
 
-  <br>
+  <br><br>
 
-  [![Blog](https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=github&logoColor=white)](https://mug43.github.io)
-  [![Website](https://img.shields.io/badge/WEBSITE-F4A261?style=for-the-badge&logo=coffeescript&logoColor=white)](http://goodmorningmug.top/)
-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--8660--2212-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8660-2212)
-  [![Email](https://img.shields.io/badge/EMAIL-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023b56029@stu.zuwe.edu.cn)
+  <a href="https://mug43.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/BLOG-111111?style=for-the-badge&logo=github&logoColor=white" alt="Blog">
+  </a>
+  <a href="http://goodmorningmug.top/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-F4A261?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Website">
+  </a>
+  <a href="https://orcid.org/0009-0003-8660-2212" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0003--8660--2212-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="mailto:2023b56029@stu.zuwe.edu.cn">
+    <img src="https://img.shields.io/badge/EMAIL-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-  <br>
+  <br><br>
 
-  <b>focusing on solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, and CFD</b>
-
-  <br>
-
-  ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261)
-  ![Vue](https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F)
-  ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F4A261)
-  ![Markdown](https://img.shields.io/badge/Markdown-111111?style=for-the-badge&logo=markdown&logoColor=ffffff)
-
-  <br>
-
-  ![Light Novels](https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261)
-  ![BanG Dream!](https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F)
-  ![Coffee](https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261)
+  <!-- Japanese self-introduction -->
+  <p>
+    <b>浙江省出身、現在大学四年生です。<br>
+    不器用な人間で、メランコリック体質です。</b>
+  </p>
 
   <br>
 
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
+  <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
+  <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
+  <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
+  <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
+  <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
+
+  <br><br>
+
+  <!-- Hobbies with descriptions -->
   <table>
     <tr>
       <td align="center">
-        <b>research directions</b><br>
-        solar radiation forecasting, hydraulics and river dynamics, fluid mechanics, watershed scheduling, CFD
+        <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
       </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
+      </td>
+    </tr>
+    <tr align="center">
+      <td>📖 reading & collecting</td>
+      <td>🎸 music & rhythm games</td>
+      <td>☕ daily ritual</td>
     </tr>
   </table>
 
