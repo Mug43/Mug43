@@ -27,11 +27,8 @@
   <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
 </p>
 
-<br>
-
 <!-- research text -->
-<div align="center">
-  <b>Research</b>&nbsp;&nbsp;&nbsp;
+<div align="center" style="margin: 6px 0 0 0;">
   solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD
 </div>
 
