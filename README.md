@@ -17,36 +17,38 @@
 
 <br><br>
 
-<i>solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD</i>
-
-<br><br>
-
-<p>
-  <b style="display:inline-block;width:80px;text-align:right;vertical-align:middle;">💻 CS</b>
-  <span style="display:inline-block;vertical-align:middle;">
-    <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
-  </span>
-</p>
-<p>
-  <b style="display:inline-block;width:80px;text-align:right;vertical-align:middle;">🔧 Eng</b>
-  <span style="display:inline-block;vertical-align:middle;">
-    <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
-    <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
-    <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
-    <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
-    <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
-  </span>
-</p>
-<p>
-  <b style="display:inline-block;width:80px;text-align:right;vertical-align:middle;">🎯 Fun</b>
-  <span style="display:inline-block;vertical-align:middle;">
-    <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
-    <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
-    <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
-  </span>
-</p>
+<table border="0" cellpadding="2" cellspacing="0">
+  <tr>
+    <td align="right" valign="middle" width="85"><b>💻 CS</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🔧 Eng</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
+      <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
+      <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
+      <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
+      <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><b>🔬 Research</b></td>
+    <td valign="middle"><i>solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD</i></td>
+  </tr>
+  <tr>
+    <td align="right" valign="middle"><b>🎯 Fun</b></td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
+      <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
+      <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
+    </td>
+  </tr>
+</table>
 
 <br>
 
