@@ -17,31 +17,22 @@
 
 <br><br>
 
-<p>
-  <span style="display:inline-block;width:85px;text-align:right;font-weight:bold;color:#F4A261;">💻 CS</span>
-  <span>
-    <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
-  </span>
+<p><b>💻 CS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
+<img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
 </p>
-<p>
-  <span style="display:inline-block;width:85px;text-align:right;font-weight:bold;color:#2A9D8F;">🔧 Eng</span>
-  <span>
-    <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
-    <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
-    <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
-    <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
-    <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
-  </span>
+<p><b>🔧 Eng</b>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
+<img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
+<img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
+<img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
+<img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
 </p>
-<p>
-  <span style="display:inline-block;width:85px;text-align:right;font-weight:bold;color:#E76F51;">🎯 Fun</span>
-  <span>
-    <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
-    <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
-    <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
-  </span>
+<p><b>🎯 Fun</b>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
+<img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
+<img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
 </p>
 
 <br>
