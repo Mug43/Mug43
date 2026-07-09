@@ -12,35 +12,56 @@
 ![2023b56029@stu.zuwe.edu.cn](https://img.shields.io/badge/2023b56029%40stu.zuwe.edu.cn-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)
 
 <br>
-
 <b>from Shaoxing, Zhejiang · naive kid · senior undergrad · preparing for grad school</b>
 
-<br>
-
-<dl>
-  <dt><img src="https://img.shields.io/badge/CS-111111?style=for-the-badge&logo=visualstudiocode&logoColor=F4A261" alt="CS"></dt>
-  <dd>
+<!-- 💻 CS · 左侧色条卡片 -->
+<div style="background: rgba(244, 162, 97, 0.06); border-left: 3px solid #F4A261; border-radius: 0 10px 10px 0; padding: 10px 16px; margin: 8px 0 14px 0;">
+  <div style="margin-bottom: 6px;">
+    <img src="https://img.shields.io/badge/CS-111111?style=for-the-badge&logo=visualstudiocode&logoColor=F4A261" alt="CS">
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
     <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
     <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
-  </dd>
-  <dt><img src="https://img.shields.io/badge/Eng-111111?style=for-the-badge&logoColor=2A9D8F" alt="Eng"></dt>
-  <dd>
+  </div>
+</div>
+
+<!-- 🔧 Eng · 圆角卡片, 标头右置 -->
+<div style="border: 1px solid #2a9d8f33; border-radius: 10px; padding: 12px 18px; margin: 14px 0; background: rgba(42, 157, 143, 0.04);">
+  <div align="right" style="margin-bottom: 6px;">
+    <img src="https://img.shields.io/badge/Eng-111111?style=for-the-badge&logoColor=2A9D8F" alt="Eng">
+  </div>
+  <div align="center">
     <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
     <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
     <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
     <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
     <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
-  </dd>
-  <dt><img src="https://img.shields.io/badge/Research-111111?style=for-the-badge&logo=researchgate&logoColor=A6CE39" alt="Research"></dt>
-  <dd>solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD</dd>
-  <dt><img src="https://img.shields.io/badge/Fun-111111?style=for-the-badge&logoColor=E76F51" alt="Fun"></dt>
-  <dd>
+  </div>
+</div>
+
+<!-- 🔬 Research · 顶部线条, 左对齐文字 -->
+<div style="border-top: 2px solid #A6CE39; padding: 8px 4px 4px 4px; margin: 14px 0;">
+  <div style="margin-bottom: 4px;">
+    <img src="https://img.shields.io/badge/Research-111111?style=for-the-badge&logo=researchgate&logoColor=A6CE39" alt="Research">
+  </div>
+  <div style="color: #999; font-size: 0.9em;">
+    solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD
+  </div>
+</div>
+
+<!-- 🎮 Fun · 药丸胶囊居中排列 -->
+<div align="center" style="margin: 16px 0 0 0;">
+  <span style="display: inline-block; background: rgba(231, 111, 81, 0.06); padding: 8px 24px; border-radius: 30px; border: 1px solid #E76F5122;">
+    <img src="https://img.shields.io/badge/Fun-111111?style=for-the-badge&logoColor=E76F51" alt="Fun">
+    &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
+    &nbsp;
     <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
+    &nbsp;
     <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
-  </dd>
-</dl>
+  </span>
+</div>
 
 <br>
 
