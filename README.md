@@ -17,38 +17,30 @@
 
 <br><br>
 
-<table border="0" cellpadding="2" cellspacing="0">
-  <tr>
-    <td align="right" valign="middle" width="85"><b>💻 CS</b></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
-    </td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>🔧 Eng</b></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
-      <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
-      <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
-      <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
-      <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle"><b>🔬 Research</b></td>
-    <td valign="middle"><i>solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD</i></td>
-  </tr>
-  <tr>
-    <td align="right" valign="middle"><b>🎯 Fun</b></td>
-    <td valign="middle">
-      <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
-      <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
-      <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
-    </td>
-  </tr>
-</table>
+<dl>
+  <dt><b>💻 CS</b></dt>
+  <dd>
+    <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
+  </dd>
+  <dt><b>🔧 Eng</b></dt>
+  <dd>
+    <img src="https://img.shields.io/badge/ArcGIS-111111?style=for-the-badge&logo=arcgis&logoColor=2A9D8F" alt="ArcGIS">
+    <img src="https://img.shields.io/badge/Ansys%20Fluent-111111?style=for-the-badge&logo=ansys&logoColor=F4A261" alt="Ansys Fluent">
+    <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
+    <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
+    <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
+  </dd>
+  <dt><b>🔬 Research</b></dt>
+  <dd><i>solar radiation forecasting · hydraulics & river dynamics · fluid mechanics · watershed scheduling · CFD</i></dd>
+  <dt><b>🎯 Fun</b></dt>
+  <dd>
+    <img src="https://img.shields.io/badge/Light%20Novels-111111?style=for-the-badge&logo=bookstack&logoColor=F4A261" alt="Light Novels">
+    <img src="https://img.shields.io/badge/BanG%20Dream%21-111111?style=for-the-badge&logo=musicbrainz&logoColor=2A9D8F" alt="BanG Dream!">
+    <img src="https://img.shields.io/badge/Coffee-111111?style=for-the-badge&logo=buymeacoffee&logoColor=F4A261" alt="Coffee">
+  </dd>
+</dl>
 
 <br>
 
