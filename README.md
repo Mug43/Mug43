@@ -13,7 +13,7 @@
 
 <br>
 <b>from Shaoxing, Zhejiang · naive kid · senior undergrad · preparing for grad school</b>
-<br>
+<br><br>
 
 <!-- skills row -->
 <p align="center" style="margin: 2px 0 0 0;">
