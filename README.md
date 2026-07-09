@@ -13,8 +13,10 @@
 
 <br>
 <b>from Shaoxing, Zhejiang · naive kid · senior undergrad · preparing for grad school</b>
+<br>
+
 <!-- skills row -->
-<div align="center">
+<p align="center" style="margin: 2px 0 0 0;">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F4A261" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F4A261" alt="JavaScript">
   <img src="https://img.shields.io/badge/Vue-111111?style=for-the-badge&logo=vuedotjs&logoColor=2A9D8F" alt="Vue">
@@ -23,7 +25,7 @@
   <img src="https://img.shields.io/badge/OpenFOAM-111111?style=for-the-badge&logoColor=F4A261" alt="OpenFOAM">
   <img src="https://img.shields.io/badge/Flow--3D-111111?style=for-the-badge&logoColor=F4A261" alt="Flow-3D">
   <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=F4A261" alt="MATLAB">
-</div>
+</p>
 
 <br>
 
