@@ -44,7 +44,6 @@
 
   <br>
 
-  <img height="155" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mug43&theme=github_dark" alt="GitHub profile stats">
   <img height="155" src="https://github-readme-streak-stats.herokuapp.com?user=Mug43&hide_border=true&background=00000000&ring=F4A261&fire=E76F51&currStreakLabel=F4A261&sideLabels=888888&dates=777777&currStreakNum=555555&sideNums=555555" alt="GitHub streak">
 
   <br>
